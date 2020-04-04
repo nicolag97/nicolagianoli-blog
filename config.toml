@@ -23,7 +23,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "Europe/Rome"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-        timeFormat               = "hh:mm"                # https://momentjs.com/docs/#/displaying/format/
+        timeFormat               = "HH:mm"                # https://momentjs.com/docs/#/displaying/format/
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
 
