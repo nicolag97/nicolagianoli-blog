@@ -2,7 +2,7 @@ baseURL                          = "https://blog.ngianoli.com/"  # Your domain n
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
+ googleAnalytics                 = "UA-162798294-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
