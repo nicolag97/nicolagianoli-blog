@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/code/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/no-date/</loc>
+  </url>
+  
+</urlset>
