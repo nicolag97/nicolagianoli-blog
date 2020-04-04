@@ -38,15 +38,15 @@ DefaultContentLanguage           = "en"                    # Default language fo
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
     # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
     [[params.social]]
-        url   = "https://twitter.com/"
+        url   = "https://twitter.com/GianoliNicola"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://facebook.com/"
+        url   = "https://facebook.com/nicola.gianoli"
         icon  = "facebook-f" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://linkedin.com/"
+        url   = "https://linkedin.com/in/nicolagianoli"
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
@@ -75,7 +75,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content"
         weight           = 0
-        title            = "Introduction"
+        title            = "Nicolag's Blog"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            footerText   = "(c) Nicola Gianoli"                      # Text to override default footer text (markdown allowed)
+            description  = "Nicolag's Dev Blog"   # Max 160 characters show in search results
+            footerText   = " © Nicola Gianoli"                      # Text to override default footer text (markdown allowed)
