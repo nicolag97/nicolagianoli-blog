@@ -13,7 +13,22 @@
   </url>
   
   <url>
+    <loc>https://blog.ngianoli.com/tags/golang/</loc>
+    <lastmod>2020-04-05T13:12:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ngianoli.com/tags/me/</loc>
+    <lastmod>2020-04-05T13:12:34+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ngianoli.com/</loc>
+    <lastmod>2020-04-05T13:12:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ngianoli.com/tags/</loc>
     <lastmod>2020-04-05T13:12:34+02:00</lastmod>
   </url>
   
@@ -24,11 +39,6 @@
   
   <url>
     <loc>https://blog.ngianoli.com/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ngianoli.com/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   

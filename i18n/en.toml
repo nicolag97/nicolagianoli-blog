@@ -1,2 +1,5 @@
 [nav_main]
     other = "home"
+
+[index_blog_allPosts]
+    other = "Posts"

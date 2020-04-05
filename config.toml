@@ -17,7 +17,7 @@ googleAnalytics                 = "UA-162798294-1"                       # https
     # Configure the home page
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
-        showLatest               = true                    # Show latest blog post summary
+        showLatest               = false                    # Show latest blog post summary
         showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
