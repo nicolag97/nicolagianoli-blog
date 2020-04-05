@@ -75,7 +75,7 @@ googleAnalytics                 = "UA-162798294-1"                       # https
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Nicolag's Blog"
+        title            = "Nicola's Blog"
         [languages.en.params]
-            description  = "Nicolag's Dev Blog"   # Max 160 characters show in search results
+            description  = "Nicola's Dev Blog"   # Max 160 characters show in search results
             footerText   = " © Nicola Gianoli"                      # Text to override default footer text (markdown allowed)

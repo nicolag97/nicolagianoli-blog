@@ -1,76 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nicolag&#39;s Blog</title>
+    <title>Tags on Nicola&#39;s Blog</title>
     <link>https://blog.ngianoli.com/tags/</link>
-    <description>Recent content in Tags on Nicolag&#39;s Blog</description>
+    <description>Recent content in Tags on Nicola&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 13:12:34 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 15:30:19 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.ngianoli.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Golang</title>
+      <title>amqp</title>
+      <link>https://blog.ngianoli.com/tags/amqp/</link>
+      <pubDate>Sun, 05 Apr 2020 15:30:19 +0200</pubDate>
+      
+      <guid>https://blog.ngianoli.com/tags/amqp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://blog.ngianoli.com/tags/go/</link>
+      <pubDate>Sun, 05 Apr 2020 15:30:19 +0200</pubDate>
+      
+      <guid>https://blog.ngianoli.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
       <link>https://blog.ngianoli.com/tags/golang/</link>
-      <pubDate>Sun, 05 Apr 2020 13:12:34 +0200</pubDate>
+      <pubDate>Sun, 05 Apr 2020 15:30:19 +0200</pubDate>
       
       <guid>https://blog.ngianoli.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Me</title>
-      <link>https://blog.ngianoli.com/tags/me/</link>
-      <pubDate>Sun, 05 Apr 2020 13:12:34 +0200</pubDate>
+      <title>rabbitmq</title>
+      <link>https://blog.ngianoli.com/tags/rabbitmq/</link>
+      <pubDate>Sun, 05 Apr 2020 15:30:19 +0200</pubDate>
       
-      <guid>https://blog.ngianoli.com/tags/me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ipsum</title>
-      <link>https://blog.ngianoli.com/tags/ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>https://blog.ngianoli.com/tags/ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>words</title>
-      <link>https://blog.ngianoli.com/tags/words/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>https://blog.ngianoli.com/tags/words/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://blog.ngianoli.com/tags/code/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>https://blog.ngianoli.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coffee</title>
-      <link>https://blog.ngianoli.com/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://blog.ngianoli.com/tags/coffee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>images</title>
-      <link>https://blog.ngianoli.com/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://blog.ngianoli.com/tags/images/</guid>
+      <guid>https://blog.ngianoli.com/tags/rabbitmq/</guid>
       <description></description>
     </item>
     
