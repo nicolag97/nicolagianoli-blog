@@ -1,8 +1,8 @@
 baseURL                          = "https://blog.ngianoli.com/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
- googleAnalytics                 = "UA-162798294-1"                       # https://gohugo.io/templates/internal/#google-analytics
+disqusshortname                 = "nicolagianoli"                       # https://gohugo.io/content-management/comments
+googleAnalytics                 = "UA-162798294-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
@@ -18,7 +18,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
@@ -73,7 +73,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [languages.en]
         languageName     = "English"
         languageCode     = "en-us"
-        contentDir       = "content"
+        contentDir       = "content/en"
         weight           = 0
         title            = "Nicolag's Blog"
         [languages.en.params]

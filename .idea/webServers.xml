@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fe53bae-eb87-49a9-9ef2-912b72b893d1" name="blog" url="http://blog.ngianoli.com">
+        <fileTransfer host="blog.ngianoli.com" port="22" privateKey="$PROJECT_DIR$/../.ssh/id_rsa" rootFolder="/home/ubuntu/nicolagianoliblog" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
